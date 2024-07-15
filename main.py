@@ -100,6 +100,10 @@ def main():
     q = queue.Queue()
     filename = 'tmp/input.wav'
 
+    # Create the 'tmp' folder if it doesn't exist
+    if not os.path.exists('tmp'):
+        os.makedirs('tmp')
+
     while True:
         user_input = input(
             "Press Enter to start/stop recording or 'q' to quit...\n").strip().lower()
