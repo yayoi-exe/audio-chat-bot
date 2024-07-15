@@ -70,4 +70,4 @@
 
 貢献は歓迎します！改善点やバグ修正のためのissueをオープンするか、プルリクエストを提出してください。
 
-[English README is here](README.md)
+[English README is here](README_en.md)
