@@ -31,7 +31,7 @@
 
 3. OpenAI APIキーを設定:
 
-    プロジェクトのルートに `.env` ファイルを作成し、OpenAI APIキーを追加:
+    プロジェクトのルートに `.env` ファイルを作成するか既存の`.env` ファイルを編集し、OpenAI APIキーを追加:
 
     ```env
     OPENAI_API_KEY=your_openai_api_key_here
