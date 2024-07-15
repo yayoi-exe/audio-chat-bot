@@ -31,7 +31,7 @@ This repository contains a Python-based bot that can record audio input, transcr
 
 3. Set up your OpenAI API key:
 
-    Create a `.env` file in the root of the project and add your OpenAI API key:
+    Create a `.env` file or edit an existing `.env` file in the root of the project and add your OpenAI API key:
 
     ```env
     OPENAI_API_KEY=your_openai_api_key_here
